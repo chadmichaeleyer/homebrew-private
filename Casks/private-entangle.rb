@@ -8,6 +8,6 @@ cask 'private-entangle' do
   
   accessibility_access true
 
-  prefpane "EntanglePrefs.prefPane"
+  pkg "Entangle.pkg"
   
 end

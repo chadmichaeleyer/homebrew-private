@@ -6,6 +6,6 @@ cask 'private-call-recorder' do
   name 'Call Recorder'
   homepage 'http://www.ecamm.com/cgi-bin/customercenter'
 
-  installer manual: "Call Recorder v#{version} Installer/Install Call Recorder.app"sh
+  installer manual: "Call Recorder v#{version} Installer/Install Call Recorder.app"
   
 end
