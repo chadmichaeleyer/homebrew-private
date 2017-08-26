@@ -1,5 +1,5 @@
 cask 'private-textexpander-5' do
-  version '1.0'
+  version '5.1.4'
   sha256 :no_check
 
   url "http://sw.lab.eyer.us/TextExpander.zip"
