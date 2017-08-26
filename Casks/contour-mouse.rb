@@ -1,6 +1,6 @@
 cask 'contour-mouse' do
   version '3.1.2'
-  sha256 :nocheck
+  sha256 :no_check
 
   url "http://www.contourdesign.com/US/wp-content/uploads/2017/04/Contour-Mouse-#{version}.zip"
   name 'Contour Design'
