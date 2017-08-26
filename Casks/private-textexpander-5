@@ -1,0 +1,10 @@
+cask 'private-textexpander-5' do
+  version '1.0'
+  sha256 :no_check
+
+  url "http://sw.lab.eyer.us/TextExpander.zip"
+  name 'TextExpander'
+  homepage 'http://smilesoftware.com/textexpander/download'
+
+  app "TextExpander.app"
+end
