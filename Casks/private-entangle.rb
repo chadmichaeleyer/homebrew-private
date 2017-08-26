@@ -1,6 +1,6 @@
 cask 'private-entangle' do
-  version '1.08'
-  sha256 'ec40a35be73238a367c224037d30cec9d69676d8c44dc0da431a3226fcd00323'
+  version '1.09'
+  sha256 :nocheck
 
   url "http://sw.lab.eyer.us/Entangle-#{version.no_dots}.zip"
   name 'Entangle'
